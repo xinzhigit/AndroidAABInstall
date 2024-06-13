@@ -1,3 +1,5 @@
 1.把需要安装的abb拷贝过来，并重命名成install.aab
 2.连击手机或模拟器（确保手机adb能正常工作）
 3.运行install.bat，等待安装完成
+
+注意：有些手机安装后可能找不到链接库libmain.so（比如一加手机就需要用universal模式）
